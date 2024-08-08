@@ -1,0 +1,14 @@
+#install dependencies and packages needed
+#pip install -r requirements.txt
+
+#Activate virtual environment 
+#cd C:\Users\Emmanuel.Agholor\Documents\LLM Projects\document-wizard 
+#document-wizard\Scripts\activate
+
+#Start application
+#streamlit run app.py 
+
+
+#bot image <img src="https://i.ibb.co/rM42Y8B/bot.png" alt="bot" border="0">
+#human image <img src="https://i.ibb.co/8P55yRm/human.jpg" alt="human" border="0">
+

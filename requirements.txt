@@ -1,0 +1,25 @@
+langchain
+langchain_community
+torch
+transformers==4.31
+ctransformers
+sentence_transformers
+openai
+faiss_cpu
+streamlit
+huggingface_hub
+python-dotenv
+pypdf
+pdfminer.six
+requests
+tiktoken
+accelerate
+bitsandbytes
+einops
+bs4
+chromadb
+safetensors
+pandas
+altair==4.0
+llama-cpp-python #-C cmake.args="-DLLAMA_BLAS=ON;-DLLAMA_BLAS_VENDOR=OpenBLAS"
+fastapi uvicorn[standard]
