@@ -1,6 +1,6 @@
 Chat-PDF-API:
 
-An LLM (Mistral-7b-instruct-v0.2.Q4_K_M.gguf) powered Chat-PDF API so you can chat with your PDF files.
+An LLM powered Chat-PDF API service so you can chat with your PDF files.
 
 Project Description:
 
